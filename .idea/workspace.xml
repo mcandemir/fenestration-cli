@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2c90edf-6d96-4592-9643-4482fb4655ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Fenestration Project" />
+  </component>
+  <component name="ProjectId" id="1QHlvN4Dr9TMxLESep0SCryOhGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mhmtc\PycharmProjects\FenestrationProject" />
+      <recent name="C:\Users\mhmtc\PycharmProjects\FenestrationProject\Funcs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mhmtc\PycharmProjects\FenestrationProject" />
+      <recent name="C:\Program Files\Python37\Lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FenestrationProject">
+    <configuration name="FenestrationProject" type="PythonConfigurationType" factoryName="Python">
+      <module name="FenestrationProject_UPDATE2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mhmtc\PycharmProjects\Kodlama Egzersizleri\venv2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FenestrationProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FenestrationProject2" type="PythonConfigurationType" factoryName="Python">
+      <module name="FenestrationProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mhmtc\PycharmProjects\FenestrationProject\FenestrationProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FenestrationProject_Backend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FenestrationProject_UPDATE2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\mhmtc\Miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FenestrationProject_Backend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Imperial_Decimal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FenestrationProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imperial_Decimal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Project1-Foot_Inch2DecimalFeet (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="FenestrationProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Proje1-Foot-Inch to Decimal (Feet)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Proje1-Foot-Inch to Decimal (Feet)/Project1-Foot_Inch2DecimalFeet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FenestrationProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FenestrationProject_Backend" />
+        <item itemvalue="Python.Imperial_Decimal" />
+        <item itemvalue="Python.random" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c90edf-6d96-4592-9643-4482fb4655ae" name="Default Changelist" comment="" />
+      <created>1567435631840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567435631840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="0" key="#FenestrationProject_Backend" timestamp="1579183633260">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="421" y="0" key="#FenestrationProject_Backend/0.0.1474.864@0.0.1474.864" timestamp="1579183633260" />
+    <state x="468" y="130" key="FileChooserDialogImpl" timestamp="1579349265302">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="468" y="130" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1579349265302" />
+    <state width="1831" height="79" key="GridCell.Tab.0.bottom" timestamp="1587316137123">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1447" height="304" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1579185239504" />
+    <state width="1831" height="79" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1587316137123" />
+    <state width="1831" height="79" key="GridCell.Tab.0.center" timestamp="1587316137123">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1447" height="304" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1579185239504" />
+    <state width="1831" height="79" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1587316137123" />
+    <state width="1831" height="79" key="GridCell.Tab.0.left" timestamp="1587316137122">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1447" height="304" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1579185239504" />
+    <state width="1831" height="79" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1587316137122" />
+    <state width="1831" height="79" key="GridCell.Tab.0.right" timestamp="1587316137123">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1447" height="304" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1579185239504" />
+    <state width="1831" height="79" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1587316137123" />
+    <state x="130" y="0" key="SettingsEditor" timestamp="1579183599313">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="130" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1579183599313" />
+    <state x="370" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1579348866312">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="370" y="215" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1579348866312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="windowEdit" language="Python" />
+        <watch expression="query" language="Python" />
+        <watch expression="products" language="Python" />
+        <watch expression="windowName" language="Python" />
+        <watch expression="option" language="Python" />
+        <watch expression="windowDict" language="Python" />
+        <watch expression="name" language="Python" />
+        <watch expression="component" language="Python" />
+        <watch expression="componentQuantity" language="Python" />
+        <watch expression="componentLength" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

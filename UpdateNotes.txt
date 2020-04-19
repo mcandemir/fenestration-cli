@@ -1,0 +1,36 @@
+========================================================================================================================
+
+UPDATE 1
+09/09/2019
+- adding Update function (uncompleted).
+- gave numbers to components.
+- added 2 new funcs (Show names, Show names&components, Delete product, Update component length).
+- added sorting by name for listing
+- fixed and updated Imperial_Decimal.py.
+
+========================================================================================================================
+
+UPDATE 2
+18/09/2019
+- added multiple project control system.
+- added height and width of a window (will shown in window list).
+- edited 'Menu'.
+- format is specified when user is about to enter a length.
+
+========================================================================================================================
+
+UPDATE 3
+27/09/2019
+- added function separations "---" and other extras to increase legibility
+- started to adding editing functions (21/09)
+- completed adding editing functions (22/09)
+- added some similar functions to add new components (24/09)
+- Finished 'Edit Window' (24/09)
+- Added ValueErrors to keep the user in touch (25/09)
+
+
+Bugs:
+- When adding a new component to window, it starts the count from 1 and creates a 'head 1' while there is still 'head 1'
+already exists (fixed in 9.10 pm 24/09)
+- ValueError on length doesnt work perfectly, the problem is based on Imperial-Decimal function and needs to be
+upgraded
