@@ -1,2 +1,2 @@
 # fenestration-project
-A database to hold the windows and their components in a building
+The purpose is to store and edit windows and components of buildings in a SQL database.
